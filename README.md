@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lazybark
 - 👀 I’m interested in DataScience, WebTech, NL, and also I write books in russian.
-- 📝 Langs I use are PHP, Python, JS and Go
+- 📝 Langs I use are PHP, Python, JS (React) and Go
 - 🤨 Langs I wanna learn and use are Ruby and Kotlin
 - 🌱 I’m currently learning NL and math(at least trying...)
 - 💞️ I’m looking to collaborate on WebTech, messengers, cryptography

@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Golang-success?style=for-the-badge&logo=Go)![](https://img.shields.io/badge/php-blue?style=for-the-badge&logo=PHP)![](https://img.shields.io/badge/React-blueviolet?style=for-the-badge&logo=React)
+![](https://img.shields.io/badge/Golang-success?style=for-the-badge&logo=Go&logoColor=white)![](https://img.shields.io/badge/php-blue?style=for-the-badge&logo=PHP&logoColor=white)![](https://img.shields.io/badge/React-blueviolet?style=for-the-badge&logo=React&logoColor=white)
 - 👋 Hi, I’m @lazybark
 - 👀 I’m interested in Microservices, WebTech, NN, and also I write books in russian.
 - 📝 Langs I use are Go, PHP, JS (React, Angular) and Python (a little bit)

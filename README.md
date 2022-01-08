@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Lazybark<br>
-I’m a Golang developer, system engineer and creative coder interested in microservices, webtech, messengers, cryptography and neural networks.<br>
+I’m a Golang developer, system engineer and creative coder who interested in microservices, webtech, messengers, cryptography and neural networks.<br>
 My main mission is to create fast and simple solution for every task I face, so I like to perform experiments and never afraid of getting through someone else's code.
 <br>
 Also I write fiction books in russian <a target="_blank" href="https://sergey-krekhno.ru/books/cydonian_girl/">![](https://img.shields.io/badge/website-link?style=social&logo=Google%20Chrome)</a>
@@ -60,7 +60,11 @@ You can always reach me by email <a href="mailto:sergey.krekhno@gmail.com">serge
 ![](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfSense&logoColor=white)
 ![](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white)
 
-
+<br>
+### Some stats (for public repos)
+<a href="https://github.com/lazybark">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 <!---
 
 

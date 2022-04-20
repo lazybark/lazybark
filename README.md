@@ -1,10 +1,8 @@
 ## 👋 Hi, I’m Lazybark<br>
 I’m a Golang developer, system engineer and creative coder who interested in microservices, webtech, messengers, cryptography and neural networks.<br>
 My main mission is to create fast and simple solution for every task I face, so I like to perform experiments and never afraid of getting through someone else's code.
-<br>
-Also I write fiction books in russian <a target="_blank" href="https://sergey-krekhno.ru/books/cydonian_girl/">![](https://img.shields.io/badge/website-link?style=social&logo=Google%20Chrome)</a>
 <br><br>
-You can always reach me by email <a href="mailto:sergey.krekhno@gmail.com">sergey.krekhno@gmail.com</a>
+
 ## 📝Skills<br>
 
 ### Backend

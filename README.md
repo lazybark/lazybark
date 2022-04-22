@@ -5,6 +5,24 @@ My main mission is to create fast and simple solution for every task I face, so 
 
 ## 📝Skills<br>
 
+### Current stack
+![](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
+![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=Sentry&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
+![](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
+![](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white)
+
+<details>
+  <summary>Full list</summary>
+  
 ### Backend
 ![](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 ![](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
@@ -25,7 +43,7 @@ My main mission is to create fast and simple solution for every task I face, so 
 ![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
 ![](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
-### Tools
+  ### Tools
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
@@ -57,10 +75,10 @@ My main mission is to create fast and simple solution for every task I face, so 
 ![](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white)
 ![](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfSense&logoColor=white)
 ![](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white)
+  
+</details>
 
-<br>
 
-### Some stats
 <br>
 <a href="https://github.com/lazybark">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazybark&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />

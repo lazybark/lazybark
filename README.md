@@ -1,5 +1,5 @@
-## 👋 Hi, I’m Lazybark<br>
-I’m a Golang developer, system engineer and creative coder who interested in microservices, webtech, messengers, cryptography and neural networks.
+## 👋 Hi, I’m Lazybark
+I’m a Golang developer, system engineer and creative coder. Coding is not just my work, but also biggest hobby.
 
 My development philosophy is simple: it is better to spend more time finding the most efficient solution than to make the first one that comes across and spend even more time refactoring in the future. This helps to avoid "dependency hell" and other similar problems.
 
@@ -42,7 +42,7 @@ I've spend most of my developer path working on different freelance projects. Th
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)
 ![](https://img.shields.io/badge/Slack%20Bots-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
-<br>
+
 ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![](https://img.shields.io/badge/Redash-FF2D20?style=for-the-badge)
 ![](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)
@@ -55,7 +55,7 @@ I've spend most of my developer path working on different freelance projects. Th
 ![](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
 ![](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
-<br>
+
 ![](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white)
 ![](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfSense&logoColor=white)
 ![](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white)
@@ -63,14 +63,7 @@ I've spend most of my developer path working on different freelance projects. Th
 </details>
 
 
-<br>
+
 <a href="https://github.com/lazybark">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazybark&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<!---
-
-
-
-lazybark/lazybark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

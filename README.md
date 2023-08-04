@@ -3,7 +3,7 @@ I’m a Golang developer, system engineer and creative coder. Coding is not just
 
 My development philosophy is simple: it is better to spend more time finding the most efficient solution than to make the first one that comes across and spend even more time refactoring in the future. This helps to avoid "dependency hell" and other similar problems.
 
-I've spend most of my developer path working on different freelance projects. This was really exciting experience: new tasks, new people and new technologies. It gave me some extra managing and collaborating skills: I'm not afraid of taking responsibility or spending time on a meeting with bosses of any level, trying to understand what they really want.
+I've spent most of my developer path working on different freelance projects. This was really exciting experience: new tasks, new people and new technologies. It gave me some extra managing and collaborating skills: I'm not afraid of taking responsibility or spending time on a meeting with bosses of any level, trying to understand what they really want.
 
 ## 📝Skills
 

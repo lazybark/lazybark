@@ -1,4 +1,7 @@
 ## 👋 Hi, I’m Lazybark
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn%20(lazybark)-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lazybark)
+[![Gmail Badge](https://img.shields.io/badge/-lazybark.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lazybark.dev@gmail.com)](mailto:lazybark.dev@gmail.com)
+
 I’m a Golang developer, system engineer and creative coder. Coding is not just my work, but also biggest hobby.
 
 My development philosophy is simple: it is better to spend more time finding the most efficient solution than to make the first one that comes across and spend even more time refactoring in the future. This helps to avoid "dependency hell" and other similar problems.

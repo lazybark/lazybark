@@ -8,6 +8,12 @@ My development philosophy is simple: it is better to spend more time finding the
 
 I've spent most of my developer path working on different freelance projects. This was really exciting experience: new tasks, new people and new technologies. It gave me some extra managing and collaborating skills: I'm not afraid of taking responsibility or spending time on a meeting with bosses of any level, trying to understand what they really want.
 
+## My projects
+
+Lazycloud
+
+Charcamp
+
 ## 📝Skills
 
 ### Current stack

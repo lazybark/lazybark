@@ -10,9 +10,9 @@ I've spent most of my developer path working on different freelance projects. Th
 
 ## My projects
 
-Lazycloud
+Lazycloud (https://github.com/lazybark/go-cloud-sync, dirty and filthy alpha version, will be better soon)
 
-Charcamp
+Charcamp (will be available soon...)
 
 ## 📝Skills
 
